@@ -15,7 +15,6 @@ Python için standart GUI kütüphanesidir. Python, Tkinter ile birleştirildiğ
 
 *EN*<br>
 Hello, in this project, I have worked on an application that makes it easy for you to download videos from Youtube. I would be glad if you share the mistakes and shortcomings you see with me.
-Besides, how we can make it better 
 
 *--Technologies used--*
 - pytube
