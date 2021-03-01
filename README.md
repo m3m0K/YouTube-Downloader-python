@@ -19,6 +19,5 @@ Hello, in this project, I have worked on an application that makes it easy for y
 *--Technologies used--*
 - pytube
 pytube is a very serious, lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos. 
-
 - Tkinter
 Tkinter is Python's de-facto standard GUI (Graphical User Interface) package. It is a thin object-oriented layer on top of
